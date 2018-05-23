@@ -1,5 +1,4 @@
 import requests
-import threadpool
 import json
 import time
 
