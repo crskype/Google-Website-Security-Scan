@@ -7,5 +7,5 @@ pip install requests
 pip install threadpool
 
 
-## tip
+## tips
 Demo code does not support multi-threading
